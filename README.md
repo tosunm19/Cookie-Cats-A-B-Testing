@@ -70,3 +70,11 @@ The treatment produces a consistent and statistically significant **decline in 7
 
 ---
 
+## Key visuals
+### Engagement distribution (log scale)
+![Engagement Distribution](figures/engagement_distribution_log1p.png)
+
+### Bootstrap distribution (retention_7 lift)
+![Bootstrap Lift Distribution](figures/bootstrap_distribution_ret7_lift.png)
+
+
